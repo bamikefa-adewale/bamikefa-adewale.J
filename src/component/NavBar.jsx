@@ -41,14 +41,6 @@ const NavBar = () => {
             setActiveItem={setActiveItem}
             handleScroll={handleScroll}
           />
-          <a
-            href="https://wa.me/2348166176457"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="py-[10px] sm:py-[20px] capitalize px-[30px] sm:px-[50px] cursor-pointer rounded-full bg-gradient-to-r text-white from-primary to-secondary hover:scale-105 hover:shadow-lg transition duration-300 ease-in-out"
-          >
-            Contact Me
-          </a>
         </div>
         {/* Mobile Menu Modal */}
         {isMenuOpen && (

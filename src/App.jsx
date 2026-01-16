@@ -5,6 +5,7 @@ import Contact from "./component/Contact";
 import Footer from "./component/Footer";
 import NavBar from "./component/NavBar";
 import Home from "./component/Home";
+import WhatsAppButton from "./component/WhatsAppButton";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
 
@@ -21,6 +22,7 @@ const App = () => {
         <Contact />
         <Footer />
       </div>
+      <WhatsAppButton />
     </main>
   );
 };
