@@ -8,7 +8,7 @@ export const my_work = [
     work_name: "mtracker",
     work_img:
       "https://res.cloudinary.com/dbrub0d6r/image/upload/v1772634040/Screenshot_2026-03-04_at_2.16.18_PM_vjjqsn.png",
-    description: "Manage Your Business Money with Confidence and Ease.",
+    description: "Manage Your Business Money with Confidence and Ease. 80% of Business Stress is Due to Lack of Proper Record. Stop using your brain as storage folder. Let Mtrackr handle everything all in one place for you",
     techStack: ["Next.js", "AWS", "Supabase", "Tailwind", "NestJS"],
     keyFeatures: [
       "Business money management and tracking",
