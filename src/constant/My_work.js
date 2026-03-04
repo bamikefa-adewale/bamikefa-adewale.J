@@ -1,6 +1,26 @@
 export const my_work = [
+
+
+
+
   {
     work_no: 1,
+    work_name: "mtracker",
+    work_img:
+      "https://res.cloudinary.com/dbrub0d6r/image/upload/v1772634040/Screenshot_2026-03-04_at_2.16.18_PM_vjjqsn.png",
+    description: "Manage Your Business Money with Confidence and Ease.",
+    techStack: ["Next.js", "AWS", "Supabase", "Tailwind", "NestJS"],
+    keyFeatures: [
+      "Business money management and tracking",
+      "Secure financial data handling",
+      "Real-time transaction monitoring",
+      "Modern and intuitive user interface",
+      "Scalable cloud infrastructure"
+    ]
+  }
+  ,
+  {
+    work_no: 2,
     work_name: "CozzyPay - Financial Operations & Payout System",
     work_img:
       "https://res.cloudinary.com/dbrub0d6r/image/upload/v1768573018/Screenshot_2026-01-16_at_2.12.04_PM_gcownf.png",
@@ -16,7 +36,7 @@ export const my_work = [
     ]
   },
   {
-    work_no: 2,
+    work_no: 3,
     work_name: "Workopia - Job Listening Platform",
     work_img:
       "https://res.cloudinary.com/dbrub0d6r/image/upload/v1740867356/Screenshot_51_qrusmv.png",
@@ -33,7 +53,7 @@ export const my_work = [
     ]
   },
   {
-    work_no: 3,
+    work_no: 4,
     work_name: "FMX - E-Commerce Platform",
     work_img:
       "https://res.cloudinary.com/dbrub0d6r/image/upload/v1741017800/Screenshot_55_kdwe5r.png",
@@ -50,7 +70,7 @@ export const my_work = [
     ]
   },
   {
-    work_no: 4,
+    work_no: 5,
     work_name: "CalcFlow - Advanced Calculator",
     work_img:
       "https://res.cloudinary.com/dbrub0d6r/image/upload/v1740868250/Screenshot_52_ct9nak.png",
@@ -64,8 +84,9 @@ export const my_work = [
       "Real-time calculation display"
     ]
   },
+  
   // {
-  //   work_no: 5,
+  //   work_no: 6,
   //   work_name: "Portfolio Landing Page",
   //   work_img:
   //     "https://res.cloudinary.com/dbrub0d6r/image/upload/v1740932059/Screenshot_53_b01ccu.png",
